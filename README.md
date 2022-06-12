@@ -28,9 +28,9 @@
 
 
 <a
-   href="itms-services://?action=download-manifest&url=https://github.com/jakestlouis/jakestlouis.github.io/raw/main/spotify/manifest.plist">
-   <img src="https://github.com/jakestlouis/jakestlouis.github.io/raw/main/spotify/icon57.png" width="57" height="57">
+   href="itms-services://?action=download-manifest&url=https://github.com/jakestlouis/jakestlouis.github.io/raw/main/youtube/manifest.plist">
+   <img src="https://github.com/jakestlouis/jakestlouis.github.io/raw/main/youtube/icon57.png" width="57" height="57">
 </a>
 
-<a href="itms-services://?action=download-manifest&url=https://github.com/jakestlouis/jakestlouis.github.io/raw/main/spotify/manifest.plist">install spotify</a>
+<a href="itms-services://?action=download-manifest&url=https://github.com/jakestlouis/jakestlouis.github.io/raw/main/youtube/manifest.plist">install youtube</a>
 
